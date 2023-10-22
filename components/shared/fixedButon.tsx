@@ -7,7 +7,7 @@ const FixedButton = () => {
              
             <a href=""className=" flex items-center " >
             <p className=" bg-transparent font-medium text-xl text-green-300 border-1 p-2 border-white rounded-lg">Write to us, start now!</p>
-                <RiWhatsappFill className="w-16 h-16 text-primary border-2 border-green-300 bg-transparent rounded-full hover:bg-green-400git in"/>
+                <RiWhatsappFill className="w-16 h-16 text-primary border-2 border-green-300 bg-transparent rounded-full hover:bg-green-400"/>
 
             </a>
             </div>
